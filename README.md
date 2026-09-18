@@ -1,7 +1,7 @@
 ## Greetings! This repository is a home for all things related to CTS*4010. 
 
 ### What You'll Find Here:
-* Project Index and Log (Capstone)
+* Project Index and Log (Capstone Prep)
 * Research for Arboretum Design Challenge
 * Notes on Assigned Readings
 
