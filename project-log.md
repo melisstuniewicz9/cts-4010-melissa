@@ -17,4 +17,16 @@ Propose a design that will make the arboretum more accessible to undergraduate s
 
 #### After visitng the Arboretum site today, what are some noteworthy concerns?
 * Inconvenient location. Far from central campus hotspots
-    * The walk there is long my student standards
+    * The walk there is long (by student standards)
+* Lack of proper sidewalk (had to walk quite a ways distance on uneven grass)
+
+# What is currently being done to draw awareness to the Arboretum
+* Social media presence with 9k+ followers, surprisingly low engagement
+* Most events / activities being run are not ones that the average undergraduate students would attend
+    * Tree and plant identification
+    * Catered towards those interesting in environmental oriented hobbies
+* To make it accessible, events need to have mass appeal
+    * Activities
+    * Meeting new people / friends
+    * Study in nature (would be nice during fall exam season)
+    * Mental health walk
