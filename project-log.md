@@ -19,6 +19,7 @@ Propose a design that will make the arboretum more accessible to undergraduate s
 * Inconvenient location. Far from central campus hotspots
     * The walk there is long (by student standards)
 * Lack of proper sidewalk (had to walk quite a ways distance on uneven grass)
+* Not disability friendly (come to think of it, most conservation areas don't have accessibility issues in mind)
 
 #### What is currently being done to draw awareness to the Arboretum?
 * Social media presence with 9k+ followers, surprisingly low engagement
