@@ -17,4 +17,4 @@ Propose a design that will make the arboretum more accessible to undergraduate s
 
 #### After visitng the Arboretum site today, what are some noteworthy concerns?
 * Inconvenient location. Far from central campus hotspots
- * The walk there is long my student standards
+    * The walk there is long my student standards
