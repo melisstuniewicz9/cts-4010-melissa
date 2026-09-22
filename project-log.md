@@ -30,4 +30,6 @@ Propose a design that will make the arboretum more accessible to undergraduate s
     * Activities
     * Meeting new people / friends
     * Study in nature (would be nice during fall exam season)
+    * Perhaps a movie night since there's tons of open space? Similar to events held at Johnston Green? I'd definitely attend that!
     * Mental health walk
+
