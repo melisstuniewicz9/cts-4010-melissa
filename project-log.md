@@ -12,6 +12,5 @@ Propose a design that will make the arboretum more accessible to undergraduate s
 * Acute and chronic stress
   * Are we going to focus on situational stress (exam and midterm season) or persisent mental health challenges (depression. generalized anxiety disorder)?
 *   What is accessibility?
-  * Accessibility in terms of awareness, transportation, disability?
+  * Accessibility in terms of awareness, transportation or disability?
   * Solution should likely include elements of all three
-  
