@@ -44,7 +44,7 @@ Propose a design that will make the arboretum more accessible to undergraduate s
 Usually boardwalks are necessary when creating an elevated pathway or if it is above body of water. Why not just add them for all paths?
 <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/2c196ab6-3bcb-4a81-87ab-d318d47df89b" />
 
-**Large outdoor projector for movie nights**
+**Large outdoor projector for movie nights** (SOLUTION TO ACUTE STRESS)
 * Midterm Seasson is during week 6-8. Weekly or bi-weekly movie nights during that time period could be fun!
 * Side note, this would be for fall semester only (for obvious reasons)
 
