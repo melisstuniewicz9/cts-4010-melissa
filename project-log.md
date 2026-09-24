@@ -38,7 +38,8 @@ Propose a design that will make the arboretum more accessible to undergraduate s
 **Implemenetation of sidewalk along roadway trail**
 
 **Implemetation of boardwalk planks for external trails (would help students who use mobility aids)**
-* Usually boardwalks are necessary when creating an elevated pathway or if it is above body of water. Why not just add them for all paths?
+
+Usually boardwalks are necessary when creating an elevated pathway or if it is above body of water. Why not just add them for all paths?
 <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/2c196ab6-3bcb-4a81-87ab-d318d47df89b" />
 
 **Large outdoor projector for movie nights**
