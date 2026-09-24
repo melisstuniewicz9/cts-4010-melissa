@@ -43,4 +43,5 @@ Usually boardwalks are necessary when creating an elevated pathway or if it is a
 <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/2c196ab6-3bcb-4a81-87ab-d318d47df89b" />
 
 **Large outdoor projector for movie nights**
+
 <img width="678" height="452" alt="image" src="https://github.com/user-attachments/assets/842b74f3-a106-480a-b0b7-868a02a6652e" />
