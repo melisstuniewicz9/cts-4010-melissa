@@ -41,5 +41,5 @@ Propose a design that will make the arboretum more accessible to undergraduate s
 ---
 * Large outdoor projector for movie nights
 <img width="678" height="452" alt="image" src="https://github.com/user-attachments/assets/842b74f3-a106-480a-b0b7-868a02a6652e" />
-    * Cool use of technology
+   * Cool use of technology
 ---
