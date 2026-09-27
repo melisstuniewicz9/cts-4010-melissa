@@ -86,6 +86,12 @@ Stop prioritizing big software in academia, we are better off tinkering and expe
 
 ## Prototyping for Tiny Fingers
 
+**Two scenarios:** Development team spends weeks desings an interface, they draw sketches on board, discuss each point in detail, and finally specify a design. 
+
+Hi-fi: Mimics finished product
+
+Low-fi: Paper prototypes
+
 ## What do Prototypes Prototype?
 
 It is common to build prototypes in order to represent different states of an evolving design, and to explore options
@@ -94,6 +100,7 @@ Current terminology for describing prototypes centers on attributes of prototype
 * Too much emphasis on software
     * Reminds me in sentiments found in Clement's paper, about how critical engagement with academic frameworks are just as important as the platforms used to faciliate them
     * She also mentions that more fields should adopt social science methodology in order to gauge qualitative insights (focus groups, surveys, feedback regarding limitations and strengths)
+    * Reading just mentioned interdisciplinary teamwork!
 * We should focus more attention on questios about the interactive system being designed (how should it look?)
 
 ## How a Prototype Argues
