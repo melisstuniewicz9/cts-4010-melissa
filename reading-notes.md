@@ -82,7 +82,21 @@ Stop prioritizing big software in academia, we are better off tinkering and expe
 **"Tools are great when they save time, but not when they shield us from the complexity of thought"**
 
 
+# Week 2: Course Materials 
 
+## Prototyping for Tiny Fingers
+
+## What do Prototypes Prototype?
+
+It is common to build prototypes in order to represent different states of an evolving design, and to explore options
+
+Current terminology for describing prototypes centers on attributes of prototypes themselves, such as what tool was used to create them and how refined looking or behaving they are
+* Too much emphasis on software
+    * Reminds me in sentiments found in Clement's paper, about how critical engagement with academic frameworks are just as important as the platforms used to faciliate them
+    * She also mentions that more fields should adopt social science methodology in order to gauge qualitative insights (focus groups, surveys, feedback regarding limitations and strengths)
+* We should focus more attention on questios about the interactive system being designed (how should it look?)
+
+## How a Prototype Argues
 
 
 
