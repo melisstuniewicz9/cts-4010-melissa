@@ -84,6 +84,8 @@ Stop prioritizing big software in academia, we are better off tinkering and expe
 
 # Week 4: Course Materials 
 
+<img width="1920" height="2126" alt="image" src="https://github.com/user-attachments/assets/9fc4895c-8c70-4803-aa67-590f718ce0a6" />
+
 ## Prototyping for Tiny Fingers
 
 **Two scenarios:** Development team spends weeks desings an interface, they draw sketches on board, discuss each point in detail, and finally specify a design. 
