@@ -82,7 +82,7 @@ Stop prioritizing big software in academia, we are better off tinkering and expe
 **"Tools are great when they save time, but not when they shield us from the complexity of thought"**
 
 
-# Week 2: Course Materials 
+# Week 4: Course Materials 
 
 ## Prototyping for Tiny Fingers
 
