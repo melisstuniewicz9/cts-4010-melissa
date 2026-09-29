@@ -58,8 +58,8 @@ Arboretum actually has emergency poles equipped with talk buttons, along with vi
     * Need a safe walk home? Download SafeGryphon to view real‑time GPS‑tracked maps or directly request a member of the safety office to meet you where you are.
     * See example below: Conceptual framing only, don't mind the unpolished look!
 
+<img width="2500" height="1600" alt="mock-poster-cts (2500 x 1600 px) (1)" src="https://github.com/user-attachments/assets/44c92797-72b5-4036-b1b0-5334e3cdfea3" />
 
-<img width="2500" height="1600" alt="mock-poster-cts (2500 x 1600 px)" src="https://github.com/user-attachments/assets/684ea5aa-bd24-4bf9-ba60-44c37e140d56" />
 
 
 
