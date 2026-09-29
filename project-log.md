@@ -49,3 +49,14 @@ Usually boardwalks are necessary when creating an elevated pathway or if it is a
 * Side note, this would be for fall semester only (for obvious reasons)
 
 <img width="678" height="452" alt="image" src="https://github.com/user-attachments/assets/842b74f3-a106-480a-b0b7-868a02a6652e" />
+
+**Safety/Panic Button**
+
+Arboretum actually has emergency poles equipped with talk buttons, along with virtual maps that mark where they are (looks to be about 2 or 3 of them). Since this idea already exists, use technology to create awareness of the feature!
+* Since virtual maps may not be immediately accessible, there need to be physical ones, along with signs (large arrows and text)
+    * Idea for poster: Encourage more students to download the SafeGryphon mobile app
+    * Need a safe walk home? Download SafeGryphon to view real‑time GPS‑tracked maps or directly request a member of the safety office to meet you where you are.
+    * 
+
+<img width="1051" height="582" alt="image" src="https://github.com/user-attachments/assets/70d264b3-c22b-4984-a5ad-45ed0d62e3bf" />
+
