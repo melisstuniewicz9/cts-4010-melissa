@@ -56,7 +56,9 @@ Arboretum actually has emergency poles equipped with talk buttons, along with vi
 * Since virtual maps may not be immediately accessible, there need to be physical ones, along with signs (large arrows and text)
     * Idea for poster: Encourage more students to download the SafeGryphon mobile app
     * Need a safe walk home? Download SafeGryphon to view real‑time GPS‑tracked maps or directly request a member of the safety office to meet you where you are.
-    * 
+
+  <img width="432" height="304" alt="mock-poster-cts" src="https://github.com/user-attachments/assets/8567be1c-ed34-4e11-8c54-db750ac1a9ad" />
+
 
 <img width="1051" height="582" alt="image" src="https://github.com/user-attachments/assets/70d264b3-c22b-4984-a5ad-45ed0d62e3bf" />
 
