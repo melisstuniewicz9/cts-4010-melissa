@@ -52,7 +52,7 @@ Usually boardwalks are necessary when creating an elevated pathway or if it is a
 <img width="678" height="452" alt="image" src="https://github.com/user-attachments/assets/842b74f3-a106-480a-b0b7-868a02a6652e" />
 
 **Tuesday, Sept 29th:**
-1 hour, research and mockup creation:
+1 hour | Research and mockup creation, possible report outline
 
 **Safety/Panic Button**
 
@@ -63,6 +63,16 @@ Arboretum actually has emergency poles equipped with talk buttons, along with vi
     * See example below: Conceptual framing only, don't mind the unpolished look!
 
 <img width="2500" height="1600" alt="mock-poster-cts (2500 x 1600 px) (1)" src="https://github.com/user-attachments/assets/44c92797-72b5-4036-b1b0-5334e3cdfea3" />
+
+**Report Outline**
+
+Preface: What elements of mental health we have chosen (acute rather than chronic) and briefly outline why we did not chose to focus our design on chronic
+
+Team priorities (4 elements): Transportation, accessibility, safety, entertainment
+
+
+
+
 
 
 
