@@ -51,6 +51,9 @@ Usually boardwalks are necessary when creating an elevated pathway or if it is a
 
 <img width="678" height="452" alt="image" src="https://github.com/user-attachments/assets/842b74f3-a106-480a-b0b7-868a02a6652e" />
 
+**Tuesday, Sept 29th:**
+1 hour, research and mockup creation:
+
 **Safety/Panic Button**
 
 Arboretum actually has emergency poles equipped with talk buttons, along with virtual maps that mark where they are (looks to be about 2 or 3 of them). Since this idea already exists, use technology to create awareness of the feature!
