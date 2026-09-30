@@ -75,7 +75,7 @@ Team priorities (4 elements): Transportation, accessibility, safety, entertainme
 
 
 | Date | Time Spent | Tasks |
-| :--- | :----: | ---: |
+| :--- | :--- | :--- |
 | Wed, Sept 30 | 1 Hour | Report Drafting |
 
 **Accessibility**
