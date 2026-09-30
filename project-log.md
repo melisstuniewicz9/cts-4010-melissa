@@ -73,7 +73,9 @@ Team priorities (4 elements): Transportation, accessibility, safety, entertainme
 **Wednesday, Sept 29th:**
 1 hour | Research and mockup creation, possible report outline
 
-| | | 
+
+| Date | Time Spent | Tasks |
+| :--- | :----: | ---: |
 
 **Accessibility**
 * Vision (more accessible maps, clear signage, qr codes to safegryphon app (where you can see a map on your phone)
