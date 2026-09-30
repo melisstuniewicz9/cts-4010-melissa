@@ -91,13 +91,9 @@ Useful reading: Prototypes as politics (How Prototypes Argue)
     * A good turnout will allow students create positive associations about their experiences, and will ideally, begin using the space on their own time.
 * Event: **Grind and Unwind**
     * Block of study time (2h)
-
 <img width="740" height="494" alt="image" src="https://github.com/user-attachments/assets/240a1b47-b4fc-43ef-a3e8-cd0a93327059" />
-
-
-    * Soothing music?
-    * Light refreshments provided (coffee / popcorn)
-    * 
+    * Soothing music
+    * Refreshments (popcorn and coffee)
 
 
 
