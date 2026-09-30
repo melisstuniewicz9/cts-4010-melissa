@@ -91,8 +91,18 @@ Stop prioritizing big software in academia, we are better off tinkering and expe
 **Two scenarios:** Development team spends weeks desings an interface, they draw sketches on board, discuss each point in detail, and finally specify a design. 
 
 Hi-fi: Mimics finished product
+* Helped for detailed proof of concept
+* Get through as many iterations as you can during the design phase, this way you have time to commit to a code
+* Hard to make changes after design is already built
 
 Low-fi: Paper prototypes
+* Paper based and then tested with users
+* Testing without priming (coaching from designer and developers)
+* Model, not illustration
+
+ 1. Select users
+ 2. Prepare for scenarios
+ 3. Practice (dry runs)
 
 ## What do Prototypes Prototype?
 
@@ -103,7 +113,7 @@ Current terminology for describing prototypes centers on attributes of prototype
     * Reminds me in sentiments found in Clement's paper, about how critical engagement with academic frameworks are just as important as the platforms used to faciliate them
     * She also mentions that more fields should adopt social science methodology in order to gauge qualitative insights (focus groups, surveys, feedback regarding limitations and strengths)
     * Reading just mentioned interdisciplinary teamwork!
-* We should focus more attention on questios about the interactive system being designed (how should it look?)
+* We should focus more attentions on questios about the interactive system being designed (how should it look?)
 
 ## How a Prototype Argues
 
