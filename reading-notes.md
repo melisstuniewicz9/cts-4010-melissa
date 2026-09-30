@@ -2,7 +2,7 @@
 
 ## Dombrowski - Project Bamboo
 
-<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/c0395bb7-c54c-4d52-96bb-a7fbf43a9e52" />
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/8b0d336f-1df1-460c-b176-8323711399c2" />
 
 #### What is it?
 
