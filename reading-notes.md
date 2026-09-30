@@ -107,8 +107,33 @@ Current terminology for describing prototypes centers on attributes of prototype
 
 ## How a Prototype Argues
 
+**Main idea:** Finding a useful bridge between the tool building tradition of DH and interpretive and critical traditions like books, history and science
 
+#### Prototypes should be:
 
+* Contestable, defensible, substantive (scholarly contribution I'm assuming)
+* Recognizable position in context of similar work: Creating something novel, or based off existing software
+* Adress objections and critique
+* Original knowledge contribution?
+
+**Process vs. product**
+
+Creation and interpretation
+* A series of decisions about the argument
+
+#### Prototypes as politics:
+* An artifact developed through the understanding of a different world other than your own
+    * Doorknob example: Accomodates those with varying mobility needs
+    * Positionality: Researchers interpret social worlds through social location, and privledge
+    * Creating a prototype should reflect or advance knowledge about the world
+* Process of critical inquiry
+    * Like the Clement paper: Theories arejust as important as tools
+ 
+**Peer Review and conversation**
+
+**Literary organism**
+
+<img width="2500" height="1766" alt="image" src="https://github.com/user-attachments/assets/25323fff-d771-4015-a44a-bb701d891746" />
 
 
 
