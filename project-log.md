@@ -70,11 +70,26 @@ Preface: What elements of mental health we have chosen (acute rather than chroni
 
 Team priorities (4 elements): Transportation, accessibility, safety, entertainment
 
+**Wednesday, Sept 29th:**
+1 hour | Research and mockup creation, possible report outline
+
+| | | 
+
 **Accessibility**
 * Vision (more accessible maps, clear signage, qr codes to safegryphon app (where you can see a map on your phone)
 * Auditory (Spoken tour on the way to Arboretum)
 * Mobility (sidewalk, boardwalks, shuttle is helpful here too as it is quite the walk from central campus)
 
+Useful reading: Prototypes at politics
+* This element of the design operates on the premise that there are worlds different from our own
+* Based on my own experiences with vision loss, it is truly so much more difficult to navigate daily life without the ability to see and read the way I once could
+* Students who are not able bodied are equally as deserving of taking advantage of recreational space
+    * Our transportation system will take this into account
+ 
+**Entertainment**
+* Since we're focusing our efforts on acute mental health, we've decided to plan large-scale events during midterm season (week 6-8)
+    * A good turnout will allow students create positive associations about their experiences, and will ideally, begin using the space on their own time.
+* Event: **Grind and unwind**
 
 
 
