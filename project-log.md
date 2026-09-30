@@ -71,10 +71,6 @@ Preface: What elements of mental health we have chosen (acute rather than chroni
 
 Team priorities (4 elements): Transportation, accessibility, safety, entertainment
 
-**Wednesday, Sept 29th:**
-1 hour | Research and mockup creation, possible report outline
-
-
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
 | Wed, Sept 30 | 1 Hour | Report Drafting |
@@ -84,7 +80,7 @@ Team priorities (4 elements): Transportation, accessibility, safety, entertainme
 * Auditory (Spoken tour on the way to Arboretum)
 * Mobility (sidewalk, boardwalks, shuttle is helpful here too as it is quite the walk from central campus)
 
-Useful reading: Prototypes at politics
+Useful reading: Prototypes as politics (How Prototypes Argue)
 * This element of the design operates on the premise that there are worlds different from our own
 * Based on my own experiences with vision loss, it is truly so much more difficult to navigate daily life without the ability to see and read the way I once could
 * Students who are not able bodied are equally as deserving of taking advantage of recreational space
@@ -94,6 +90,14 @@ Useful reading: Prototypes at politics
 * Since we're focusing our efforts on acute mental health, we've decided to plan large-scale events during midterm season (week 6-8)
     * A good turnout will allow students create positive associations about their experiences, and will ideally, begin using the space on their own time.
 * Event: **Grind and unwind**
+    * Block of study time (2h)
+
+<img width="740" height="494" alt="image" src="https://github.com/user-attachments/assets/240a1b47-b4fc-43ef-a3e8-cd0a93327059" />
+
+
+    * Soothing music?
+    * Light refreshments provided (coffee / popcorn)
+    * 
 
 
 
