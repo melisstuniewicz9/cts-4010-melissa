@@ -70,6 +70,11 @@ Preface: What elements of mental health we have chosen (acute rather than chroni
 
 Team priorities (4 elements): Transportation, accessibility, safety, entertainment
 
+**Accessibility**
+* Vision (more accessible maps, clear signage, qr codes to safegryphon app (where you can see a map on your phone)
+* Auditory (Spoken tour on the way to Arboretum)
+* Mobility (sidewalk, boardwalks, shuttle is helpful here too as it is quite the walk from central campus)
+
 
 
 
