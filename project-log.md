@@ -51,8 +51,9 @@ Usually boardwalks are necessary when creating an elevated pathway or if it is a
 
 <img width="678" height="452" alt="image" src="https://github.com/user-attachments/assets/842b74f3-a106-480a-b0b7-868a02a6652e" />
 
-**Tuesday, Sept 29th:**
-1 hour | Research and mockup creation, possible report outline
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
+| Tues, Sept 29 | 1 Hour | Report Drafting |
 
 **Safety/Panic Button**
 
