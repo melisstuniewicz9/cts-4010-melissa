@@ -145,6 +145,18 @@ Creation and interpretation
 
 <img width="2500" height="1766" alt="image" src="https://github.com/user-attachments/assets/25323fff-d771-4015-a44a-bb701d891746" />
 
+# Week 5: Course Materials 
+
+## Theory by Other Means - Kleyman
+
+Basically presenting "prototypes as theories"
+   * A preliminary version of something being built, building and making is first rooted in research
+   * Critical thinking through making
+   * Prototyping (iterative process) vs prototype (multimodal objects)
+
+How can prototyping facili-tate explorations and analyses of humanistic theories and provide new insights that may not have been possible through traditional means? 
+    
+    
 
 
 
