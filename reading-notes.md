@@ -156,7 +156,9 @@ Basically presenting "prototypes as theories"
 
 How can prototyping facili-tate explorations and analyses of humanistic theories and provide new insights that may not have been possible through traditional means? 
     
-    
+## Edmon Lehmann - DH Knowledge Complexity
+
+Scholars are not clear what the field of DH is
 
 
 
