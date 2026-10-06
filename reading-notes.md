@@ -159,6 +159,17 @@ How can prototyping facili-tate explorations and analyses of humanistic theories
 ## Edmon Lehmann - DH Knowledge Complexity
 
 Scholars are not clear what the field of DH is
+   * Digital humanists as intermediaries "hybrid people"
+   * Bridge between computer science and arts/ humanities research
+   * Academy views industrial relevance with suspicion
+   * What can digital methods add to traditional literary scholarship?
+   * KPLEX
+    
+How do computer scientists communicate about the data they work with the dissociation of the data set from its origins in individualized processes of information gatheringimpacts upon the development of research processes ?
 
+Different ways of thinking about data: Information that is encoded, processed for a specific use
+   * Posner’s humanists, one that views data as broadly encompassing and in terms of its function or utility in the research project rather than a complex set of information objects that come with biases built into them
+
+Data without Theory Is as Problematic as Theories without Evidence
 
 
