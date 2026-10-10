@@ -2,8 +2,6 @@
 
 ## Arboretum Design Challenge
 
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/4e7a7459-ce31-45d8-88e7-f908a2fdbec5" />
-
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
 | Oct, 9 | 30 mins | Presentation |
