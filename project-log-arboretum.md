@@ -13,6 +13,10 @@
 **To Do:**
 * Meet with group to divide presentation parts
 
+**Challenges:**
+* Will likely struggle with condensing proposed prototype in 6 minutes (2 minutes for my part)
+* Want to do a short preface about acute vs chronic mental health, audience needs to understand this for our entertainment section to make sense
+
 <img width="1132" height="533" alt="image" src="https://github.com/user-attachments/assets/cb426899-9c69-4d39-a6d9-5739d20fd5bb" />
 
 ---
