@@ -13,6 +13,8 @@
 **To Do:**
 * Meet with group to divide presentation parts
 
+<img width="1147" height="582" alt="image" src="https://github.com/user-attachments/assets/99d70f14-dcf6-4557-a16b-4ab1bbb7d029" />
+
 ---
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
