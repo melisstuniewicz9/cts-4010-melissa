@@ -7,7 +7,14 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
-| Oct, 3 | 3 Hours | Report Writing |
+| Oct, 3 | 3 Hours | * Create report document
+* Planned out what academic research I would consult (context section + solution)
+     * Fear associated with travelling at night among female university students
+     * "Accessible nature" how green spaces are not designed with differently abled individuals in mind
+     * Stress associated with examinations and culminating performance tasks
+     * Clement - Methodology
+     * Gayle and Ruecker - How Prototypes Argue
+* Complete my 3 sections: **Context, Solution, and Proposed prototype + Reference list** |
 
 **Tasks:**
 * Create report document
