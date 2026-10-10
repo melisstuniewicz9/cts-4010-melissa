@@ -19,7 +19,9 @@
 * Complete my 3 sections: **Context, Solution, and Proposed prototype + Reference list**
 
 **Challenges**:
-* 
+* Group is not communicative, I would constantly not recieve replies to my Slack messages
+* Had to take charge of entire process, or else nothing would get done
+* Group waited till last possible moment to finish their sections
 
 
 
