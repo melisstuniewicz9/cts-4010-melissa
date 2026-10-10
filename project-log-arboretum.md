@@ -12,6 +12,9 @@
 * Created slide deck on Canva
 * Began formatting slides and inserting images (AI mockups)
 
+**To Do:**
+* Meet with group to divide presentation parts
+
 ---
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
