@@ -4,10 +4,18 @@
 
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/4e7a7459-ce31-45d8-88e7-f908a2fdbec5" />
 
-
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
-| Oct, 3 | 3 Hours | Report |
+| Oct, 9 | 30 mins | Presentation |
+
+**Tasks:**
+* Created slide deck on Canva
+* Began formatting slides and inserting images (AI mockups)
+
+---
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
+| Oct, 2-5th | 5 Hours | Report |
 
 **Tasks:**
 * Create report document
