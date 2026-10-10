@@ -6,7 +6,7 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
-| Oct, 3 | 3 Hours | Report Writing |
+| Oct, 3 | 3 Hours | Report Writing | 
 
 **Tasks:**
    * Create report document
