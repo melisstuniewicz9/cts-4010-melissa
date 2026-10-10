@@ -4,6 +4,32 @@
 
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/4e7a7459-ce31-45d8-88e7-f908a2fdbec5" />
 
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
+| Oct, 3 | 3 Hours | Report Writing |
+
+**Tasks:**
+   * Create report document
+   * Planned out what academic research I would consult (context section + solution)
+     * Fear associated with travelling at night among female university students
+     * "Accessible nature" how green spaces are not designed with differently abled individuals in mind
+     * Stress associated with examinations and culminating performance tasks
+     * Clement - Methodology
+     * Gayle and Ruecker - How Prototypes Argue
+   * Complete my 3 sections: **Context, Solution, and Proposed prototype + Reference list**
+
+**Challenges**:
+* 
+
+
+
+
+
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
+| Sept, 20 |2 Hours | Brainstorm |
+
 **Q:** University students are contending with increasingly high levels of mental stress and distress that negatively affect them in a range of ways. The University o Guelph’s Arboretum is an important space on campus that could help students cope with mental stress. However, the Arboretum remains relatively underused by students.
 
 Propose a design that will make the arboretum more accessible to undergraduate students and support their mental health. Your design must include some use of technology.
