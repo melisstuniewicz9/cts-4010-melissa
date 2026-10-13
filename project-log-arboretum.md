@@ -2,6 +2,17 @@
 
 ## Arboretum Design Challenge
 
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
+| Oct, 12 | 1 hour | Presentation |
+
+**Tasks:**
+* Met with group via Google Meets
+* Distributed parts for presentation
+* Planning to meet again this week to go over slides briefly
+---
+
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
 | Oct, 9 | 30 mins | Presentation |
