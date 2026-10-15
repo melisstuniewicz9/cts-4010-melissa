@@ -2,7 +2,7 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
-| Oct, 16 |2 hours | TCPS2-Core Modules |
+| Oct, 15 |2 hours | TCPS2-Core Modules |
 
 **Completed TCPS2 Certificate**
 
