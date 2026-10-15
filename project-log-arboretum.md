@@ -2,6 +2,19 @@
 
 ## Arboretum Design Challenge
 
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
+| Oct, 14 | 30 minutws | Presentation |
+
+**Tasks:**
+* Created my slides (intro, accessibility and safety)
+* Added in corresponding mockup images
+* Since I only get two minutes to speak, I didn't bother populating my slides with large pieces of text. Bullet points are sufficient, and at this point, I've thought about our prototype so much that I've essentially memorized my parts.
+
+**To do:**
+* Need to inform group members of the order in which we begin to speak as I recently changed the order of the slides.  I will begin with preface, Shekhar will follow with entertainment etc.
+
+---
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
@@ -28,7 +41,7 @@
 * Will likely struggle with condensing proposed prototype in 6 minutes (2 minutes for my part)
 * Want to do a short preface about acute vs chronic mental health, audience needs to understand this for our entertainment section to make sense
 
-<img width="1132" height="533" alt="image" src="https://github.com/user-attachments/assets/cb426899-9c69-4d39-a6d9-5739d20fd5bb" />
+<img width="389" height="209" alt="image" src="https://github.com/user-attachments/assets/7fbcff9d-0ded-477a-8ece-87ed2020b084" />
 
 ---
 | Date | Time Spent | Tasks |
