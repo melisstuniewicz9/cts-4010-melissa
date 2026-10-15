@@ -11,6 +11,8 @@
 * Added in corresponding mockup images
 * Since I only get two minutes to speak, I didn't bother populating my slides with large pieces of text. Bullet points are sufficient, and at this point, I've thought about our prototype so much that I've essentially memorized my parts.
 
+<img width="323" height="179" alt="image" src="https://github.com/user-attachments/assets/221f5ffa-95a0-4a5c-af10-d59943bdfec4" />
+
 **To do:**
 * Need to inform group members of the order in which we begin to speak as I recently changed the order of the slides.  I will begin with preface, Shekhar will follow with entertainment etc.
 
