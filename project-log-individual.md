@@ -1,5 +1,15 @@
 # Individual Project Log
 
+## Topic: The Statistical Significance Between Body Dysmorphic Disorder or Body Image Disturbance and Compulsive Overspending on Collectible Items Driven by Social Media Fads
+
+**Ideal Reseearch Participants:**
+  * Women identifying individuals between ages of 18-25 who are frequent users of TikTok
+    * Focusing on Tiktok specifically, because its algorith is highly personalized
+
+<img width="465" height="465" alt="image" src="https://github.com/user-attachments/assets/32a10a83-6fcf-49ab-80d8-931416993f36" />
+
+---          
+
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
 | Oct, 15 |2 hours | TCPS2-Core Modules |
