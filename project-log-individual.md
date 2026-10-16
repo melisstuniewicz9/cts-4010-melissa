@@ -32,6 +32,7 @@
 * Trading card games
 * Squishy glitter dumpling toy
 * Labubu
+* Smisky 
 
 **Want to move away from products that promote aesthetic enhancement (makeup, skincare, and clothing). There is already extensive research on topics surrounding excess consuption of cosmetics in individuals experiencing BDD**
 
