@@ -4,7 +4,7 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
-| Oct 10th,  |30 mins | Formulation of Research Questions | 
+| Oct 10th,  |30 mins | Formulation of Research Question | 
 
 ## Topic: The Statistical Significance Between Body Dysmorphic Disorder or Body Image Disturbance and Compulsive Overspending on Collectible Items Driven by Social Media Fads
 
