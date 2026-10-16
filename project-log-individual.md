@@ -11,6 +11,12 @@
 **Ideal Reseearch Participants:**
   * Women identifying individuals between ages of 18-25 who are frequent users of TikTok
     * Focusing on Tiktok specifically, because its algorith is highly personalized
+   
+**Collectible Items I Have in Mind**
+* Stanley cups
+* Trading card games
+* Squishy glitter dumpling toy
+* Labubu
 
 <img width="465" height="465" alt="image" src="https://github.com/user-attachments/assets/32a10a83-6fcf-49ab-80d8-931416993f36" />
 
