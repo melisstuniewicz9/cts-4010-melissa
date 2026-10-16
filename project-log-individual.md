@@ -28,6 +28,7 @@
    
 **Collectible Items I Have in Mind**
 * Stanley cups
+* Bearista Starbucks cup
 * Trading card games
 * Squishy glitter dumpling toy
 * Labubu
