@@ -35,7 +35,7 @@
 * Labubu
 * Smisky 
 
-**Want to move away from products that promote aesthetic enhancement (makeup, skincare, and clothing). There is already extensive research on topics surrounding excess consuption of cosmetics in individuals experiencing BDD**
+**Want to move away from products that promote aesthetic enhancement (makeup, skincare, and clothing). There is already extensive research on topics surrounding excess consumption of cosmetics in individuals experiencing BDD**
 
 **Existing Research:**
 * [Cosmeticorexia: What It Is, Where It Comes from, and Why It Matters](https://pmc.ncbi.nlm.nih.gov/articles/PMC13013764/)
