@@ -4,7 +4,7 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
-| Oct, 14 | 30 minutws | Presentation |
+| Oct, 14 | 30 minutes | Presentation |
 
 **Tasks:**
 * Created my slides (intro, accessibility and safety)
