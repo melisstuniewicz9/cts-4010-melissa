@@ -17,7 +17,7 @@
 | :--- | :--- | :--- |
 | Oct 10th,  |30 mins | Formulation of Research Question | 
 
-## Topic: The Statistical Significance Between Body Dysmorphic Disorder and Compulsive Overspending on Collectible Items Driven by Social Media Fads
+## Topic: The Statistical Significance Between Body Dysmorphic Disorder and Compulsive Spending on Collectible Items Driven by Social Media Fads
 
 **Ideal Reseearch Participants:**
   * Women identifying individuals between ages of 18-25 who are frequent users of TikTok
