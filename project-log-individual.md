@@ -17,7 +17,7 @@
 | :--- | :--- | :--- |
 | Oct 10th,  |30 mins | Formulation of Research Question | 
 
-## Topic: The Statistical Significance Between Body Dysmorphic Disorder or Body Image Disturbance and Compulsive Overspending on Collectible Items Driven by Social Media Fads
+## Topic: The Statistical Significance Between Body Dysmorphic Disorder and Compulsive Overspending on Collectible Items Driven by Social Media Fads
 
 **Ideal Reseearch Participants:**
   * Women identifying individuals between ages of 18-25 who are frequent users of TikTok
@@ -32,6 +32,7 @@
 * Squishy glitter dumpling toy
 * Labubu
 
+**Want to move away from products that promote aesthetic enhancement (makeup, skincare, and clothing). There is already extensive research on topics surrounding excess consuption of cosmetics in individuals experiencing BDD**
 
 ---          
 
