@@ -22,6 +22,7 @@
 **Ideal Reseearch Participants:**
   * Women identifying individuals between ages of 18-25 who are frequent users of TikTok
   * Must have a BDD diagnosis or experience profound body image disturbance
+  * "Most of us have some concerns about our appearance, but appearance concerns in BDD are more intense and severe than typical appearance concerns." - [Karen Rowa](https://healthsci.mcmaster.ca/heres-what-you-should-know-about-body-dysmorphic-disorder/)
     * Focusing on Tiktok specifically, because its algorith is highly personalized
 
 <img width="465" height="465" alt="image" src="https://github.com/user-attachments/assets/32a10a83-6fcf-49ab-80d8-931416993f36" />
