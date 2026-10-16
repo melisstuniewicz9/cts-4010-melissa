@@ -1,4 +1,4 @@
-# Project Log
+# Group Project Log
 
 ## Arboretum Design Challenge
 
