@@ -10,6 +10,7 @@
 
 **Ideal Reseearch Participants:**
   * Women identifying individuals between ages of 18-25 who are frequent users of TikTok
+  * Must have a BDD diagnosis (need to rethink this)
     * Focusing on Tiktok specifically, because its algorith is highly personalized
    
 **Collectible Items I Have in Mind**
