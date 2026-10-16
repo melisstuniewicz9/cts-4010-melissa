@@ -39,6 +39,7 @@
 
 **Existing Research:**
 * [Cosmeticorexia: What It Is, Where It Comes from, and Why It Matters](https://pmc.ncbi.nlm.nih.gov/articles/PMC13013764/)
+* [Obsession with perfection: Body dysmorphia](https://www.sciencedirect.com/science/article/abs/pii/S0738081X16300724?vi)
 
 
 ---          
