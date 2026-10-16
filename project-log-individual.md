@@ -1,5 +1,11 @@
 # Individual Project Log
 
+--- 
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
+| Oct 10th,  |30 mins | Formulation of Research Questions | 
+
 ## Topic: The Statistical Significance Between Body Dysmorphic Disorder or Body Image Disturbance and Compulsive Overspending on Collectible Items Driven by Social Media Fads
 
 **Ideal Reseearch Participants:**
