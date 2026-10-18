@@ -1,5 +1,9 @@
 # Individual Project Log
 
+(file:///C:/Users/Melisa/Downloads/tcps2-eptc2-certificate.pdf)
+
+
+
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
 | Oct, 15 |2 hours | TCPS2-Core Modules |
