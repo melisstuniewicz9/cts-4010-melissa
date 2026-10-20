@@ -1,5 +1,11 @@
 # Individual Project Log
 
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
+| Oct, 20 |2 hours | REB Application |
+
+**Tasks:**
+
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
