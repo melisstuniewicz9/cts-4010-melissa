@@ -6,7 +6,8 @@
 
 **Goal of this research session:**
 * Seeing if scraping X/Reddit can give me enough data needed to draw a meaningful conclusion for my research question
-* 
+
+[This is a very interesting Reddit post.]https://www.reddit.com/r/BodyDysmorphia/comments/13nqw01/what_are_your_coping_mechanisms/() Doesn't necessarily prove that BDD is linked to compulsive spending, but it is interesting that this user redirects their focus to "a chosen form of entertainment" as a coping mechanism for body image disturbance. I think it's fair to assume that we can extend these sentiments over to collectible items. They can also be consider a means of seeking entertainment. 
 
 <img width="605" height="245" alt="image" src="https://github.com/user-attachments/assets/a3277616-95ce-40fe-ba0a-3d4ee5dfe85c" />
 
