@@ -2,6 +2,16 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
+| Oct, 21 |2 hours |Research |
+
+**Goal of this research session:**
+* Seeing if scraping X/Reddit can give me enough data needed to draw a meaningful conclusion for my research question
+* 
+
+<img width="605" height="245" alt="image" src="https://github.com/user-attachments/assets/a3277616-95ce-40fe-ba0a-3d4ee5dfe85c" />
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
 | Oct, 20 |2 hours | REB Application |
 
 **Tasks:**
