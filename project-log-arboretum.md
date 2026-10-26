@@ -4,6 +4,12 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
+| Oct, 22 | 20 minutes | Presentation + Q&A |
+
+---
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
 | Oct, 14 | 30 minutes | Presentation |
 
 **Tasks:**
