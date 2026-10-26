@@ -10,7 +10,11 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
-| Oct, 21 | 20 minutes | Presentation Prep with Group |
+| Oct, 21 | 45 minutes | Presentation Prep with Group |
+
+**Tasks**
+* Practiced presentation with group via Google Meets
+* Practiced my own parts after meeting concluded
 
 ---
 
