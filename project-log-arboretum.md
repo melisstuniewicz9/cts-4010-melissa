@@ -10,6 +10,12 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
+| Oct, 21 | 20 minutes | Presentation Prep with Group |
+
+---
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
 | Oct, 14 | 30 minutes | Presentation |
 
 **Tasks:**
