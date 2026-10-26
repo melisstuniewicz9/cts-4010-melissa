@@ -2,6 +2,12 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
+| Oct, 26 |2 hours |Finalize REB Application |
+
+--- 
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
 | Oct, 21 |2 hours |Research |
 
 **Goal of this research session:**
