@@ -2,7 +2,7 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
-| Oct, 28 |2 hours |Low-fi Prototype |
+| Oct, 28 |2 hours |Low-fi Prototype + Methods Plan |
 
 **The Plan**
 * Digital academic paper, displayed through static site
@@ -13,6 +13,9 @@
 
 
 [Click to view prototype of research page](https://www.figma.com/proto/FCdG7xi4BASg9hVPPmtfpV/BDD-LOWI-FI?node-id=1-6&p=f&t=rxxEO2r9ZZM9cqHA-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+
+**Methodology Draft**
+* Web scraping reddit + participant recruitment via [r/BodyDysmorphia](https://www.reddit.com/r/BodyDysmorphia/) forum
 
 ---
 
