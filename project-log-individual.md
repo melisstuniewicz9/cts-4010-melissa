@@ -16,6 +16,7 @@
 
 **Methodology Draft**
 * Web scraping reddit + participant recruitment via [r/BodyDysmorphia](https://www.reddit.com/r/BodyDysmorphia/) forum
+* Reddit API for developers program, will be terminated in Q1 of 2027. I can get around this by using [Apify]()https://apify.com/comchat/reddit-api-scraper (cloud based web scrapimng program) since all I will require is bulk data, comments and profile scraping
 
 ---
 
