@@ -11,8 +11,7 @@
     * Data vis: [Flourish](https://flourish.studio/), [Tableau](https://www.tableau.com/), or [Mathplotlib](https://matplotlib.org/)
     * Assets and brand kit: [FireAlpaca](https://firealpaca.com/), [Canva](canva.com), [Figma](figma.com)
 
-<img width="183" height="278" alt="image" src="https://github.com/user-attachments/assets/4de118ce-8249-4d20-8478-84ac07790573" />
-
+https://www.figma.com/design/FCdG7xi4BASg9hVPPmtfpV/BDD-LOWI-FI?node-id=0-1&m=dev&t=rxxEO2r9ZZM9cqHA-1
   
 ---
 
