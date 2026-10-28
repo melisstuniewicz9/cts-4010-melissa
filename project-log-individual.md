@@ -2,6 +2,19 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
+| Oct, 28 |2 hours |Low-fi Prototype |
+
+**The Plan**
+* Digital academic paper, displayed through static site
+* Landing page gives overview of the project, and then a separate page will contain links to blog posts that mimic the sections of an academic research paper
+* All assets will be either hand drawn or designed by me, using digital tools
+    * Data vis: [Flourish](https://flourish.studio/), [Tableau](https://www.tableau.com/), or [Mathplotlib](https://matplotlib.org/)
+    * Assets and brand kit: [FireAlpaca](https://firealpaca.com/), [Canva](canva.com), [Figma](figma.com)
+  
+---
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
 | Oct, 26 |2 hours |Finalize REB Application |
 
 --- 
