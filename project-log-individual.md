@@ -11,8 +11,7 @@
     * Data vis: [Flourish](https://flourish.studio/), [Tableau](https://www.tableau.com/), or [Mathplotlib](https://matplotlib.org/)
     * Assets and brand kit: [FireAlpaca](https://firealpaca.com/), [Canva](canva.com), [Figma](figma.com)
 
-https://www.figma.com/design/FCdG7xi4BASg9hVPPmtfpV/BDD-LOWI-FI?node-id=0-1&m=dev&t=rxxEO2r9ZZM9cqHA-1
-  
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/FCdG7xi4BASg9hVPPmtfpV/BDD-LOWI-FI?node-id=1-6&embed-host=share" allowfullscreen></iframe>  
 ---
 
 | Date | Time Spent | Tasks |
