@@ -10,6 +10,9 @@
 * All assets will be either hand drawn or designed by me, using digital tools
     * Data vis: [Flourish](https://flourish.studio/), [Tableau](https://www.tableau.com/), or [Mathplotlib](https://matplotlib.org/)
     * Assets and brand kit: [FireAlpaca](https://firealpaca.com/), [Canva](canva.com), [Figma](figma.com)
+
+<img width="183" height="278" alt="image" src="https://github.com/user-attachments/assets/4de118ce-8249-4d20-8478-84ac07790573" />
+
   
 ---
 
