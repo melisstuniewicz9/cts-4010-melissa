@@ -1,1 +1,1 @@
-# Index
+# Individual Project Index
