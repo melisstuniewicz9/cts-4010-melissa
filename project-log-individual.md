@@ -2,7 +2,11 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
-| Nov, 4 |  |  |
+| Nov, 4 | 2 hours  | Setting Up Static Site for Hi-Fi Prototype |
+
+**Tasks**
+* Going to set up website repository and Github, and then migrate to Gitlab pages (Gitlab pages supports more complex Jekyll themes relative to Github pages"
+* Won't get to creating art pieces until next semester as they are simply too time consuming to complete before the 10th, so I will be uploading placeholder images while also integrating my desired colour scheme
 
 ---
 
