@@ -2,6 +2,12 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
+| Nov, 4 |  |  |
+
+---
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
 | Oct, 28 |2 hours |Low-fi Prototype + Methods Plan |
 
 **The Plan**
