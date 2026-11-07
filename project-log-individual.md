@@ -2,10 +2,13 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
-| Nov, 5 | 1 hour | Working On Hi-Fi |
+| Nov, 5 | 1 hour | Working On Hi-Fi + Art |
 
 **Tasks**
 * Working on art piece to provide a general idea of how the original artwork will look
+* This drawing is of a [Rhode peptide lip treatment]()
+   * Rhode is a celebrity cosmetics brand that often excersizes scarcity and novelty marketing via TikTok influencers
+   * Many Rhode customers engage in a phenomenon I like to call "lifestyle mimicry" as they purchase the products in hopes of emulating the appearance and lifestyle of founder, Hailey Bieber
 
 <img width="290" height="331" alt="image" src="https://github.com/user-attachments/assets/9add5532-c7de-47f5-ab24-16aefbc91dda" />
 
