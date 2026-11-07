@@ -8,6 +8,10 @@
 * Going to set up website repository and Github, and then migrate to Gitlab pages (Gitlab pages supports more complex Jekyll themes relative to Github pages"
 * Won't get to creating art pieces until next semester as they are simply too time consuming to complete before the 10th, so I will be uploading placeholder images while also integrating my desired colour scheme
 
+**Link to Website**
+[bdd-platform-economies](https://bdd-platform-economies-daebf8.gitlab.io/)
+
+
 ---
 
 | Date | Time Spent | Tasks |
