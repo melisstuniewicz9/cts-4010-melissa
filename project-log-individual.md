@@ -2,6 +2,17 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
+| Nov, 5 | 1 hour | Working On Hi-Fi |
+
+**Tasks**
+* Working on art piece to provide a general idea of how the original artwork will look
+
+<img width="290" height="331" alt="image" src="https://github.com/user-attachments/assets/9add5532-c7de-47f5-ab24-16aefbc91dda" />
+
+--- 
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
 | Nov, 4 | 2 hours  | Setting Up Static Site for Hi-Fi Prototype |
 
 **Tasks**
