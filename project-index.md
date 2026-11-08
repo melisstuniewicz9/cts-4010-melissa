@@ -1,7 +1,8 @@
 # Individual Project Index
 
 
-**Tools Used so Far**
+**Tools Used So Far**
+
 Programming:
 * VsCode
 * Jekyll
