@@ -1,7 +1,7 @@
 # Individual Project Index
 
 
-**Tools Used So Far**
+**Tools Used So Far:**
 
 Programming:
 * VsCode
@@ -13,7 +13,7 @@ Art/Graphics:
 * FireAlpaca (this is where I create my artwork)
 * Canva
 
-**Future Tools**
+**Future Tools:**
 * Jupyter Notebook
 * Python
 * Apify API
