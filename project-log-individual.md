@@ -2,6 +2,13 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
+| Nov, 6 | 2 hour | Longer Desc + Editing Website |
+
+
+---
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
 | Nov, 5 | 1 hour | Working On Hi-Fi + Art |
 
 **Tasks**
