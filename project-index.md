@@ -1,7 +1,7 @@
 # Individual Project Index
 
 
-**Tools Used so Far
+**Tools Used so Far**
 Programming:
 * VsCode
 * Jekyll
@@ -11,7 +11,7 @@ Art/Graphics:
 * FireAlpaca
 * Canva
 
-**future Tools**
+**Future Tools**
 * Jupyter Notebook
 * Python
 * Apify API
