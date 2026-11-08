@@ -14,6 +14,9 @@
 
 <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/fd63ade5-6619-4f20-824f-5f4d1d61b8df" />
 
+<img width="274" height="374" alt="image" src="https://github.com/user-attachments/assets/abe288be-dd16-4e4e-8825-61996cdc0282" />
+
+
 
 **To do's:**
 * Finish Hi-Fi
