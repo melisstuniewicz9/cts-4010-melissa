@@ -5,10 +5,11 @@
 Programming:
 * VsCode
 * Jekyll
-* GitLab Pages
+   * Index theme
+* GitLab Pages (for hosting website)
 
 Art/Graphics:
-* FireAlpaca
+* FireAlpaca (this is where I create my artwork)
 * Canva
 
 **Future Tools**
