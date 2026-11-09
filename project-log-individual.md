@@ -2,8 +2,13 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
-| Nov, 6 | 2 hours | Longer Desc + Editing Website |
+| Nov, 8| 2 hours | Longer Desc |
 
+---
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
+| Nov, 6 | 2 hours | Longer Desc + Editing Website |
 
 ---
 
