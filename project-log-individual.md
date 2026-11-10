@@ -5,7 +5,7 @@
 | Nov, 8-9| 6 hours | Longer Desc |
 
 **Tasks**
-* Complete draft of longer description (approx 1000 words + handful of references)
+* Complete draft of longer description (approx 1000 words + some references)
 * Provide Gitlab link so website can be viewed
 <img width="887" height="401" alt="image" src="https://github.com/user-attachments/assets/181e2e18-4fd1-4c25-9a4a-0a6ae51e2306" />
 
