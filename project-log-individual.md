@@ -12,6 +12,10 @@
 | :--- | :--- | :--- |
 | Nov, 6 | 2 hours | Longer Desc + Editing Website |
 
+**Tasks**
+* Design a mock website logo
+* Embed images into landing page gallery
+* Add placeholder text
 ---
 
 | Date | Time Spent | Tasks |
