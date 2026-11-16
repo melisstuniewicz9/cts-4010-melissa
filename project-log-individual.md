@@ -9,7 +9,7 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
-| Nov, 13| 2 hours | Methodoly Report + Data Management Plan |
+| Nov, 13| 2 hours | Methodology Report + Data Management Plan |
 
 ---
 
