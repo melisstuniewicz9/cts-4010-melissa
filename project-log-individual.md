@@ -3,7 +3,7 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
-| Nov, 15-17 | 4 hours | Methodoly Report + Data Management Plan + Deliverables |
+| Nov, 15-17 | 4 hours | Methodology Report + Data Management Plan + Deliverables |
 
 ---
 
