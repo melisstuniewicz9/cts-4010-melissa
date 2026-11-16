@@ -17,6 +17,8 @@
 | :--- | :--- | :--- |
 | Nov, 12 |1 hour | Methodology Report |
 
+<img width="958" height="410" alt="image" src="https://github.com/user-attachments/assets/ceaa7551-943a-4c76-8a4b-39caef35b25e" />
+
 ---
 
 | Date | Time Spent | Tasks |
