@@ -36,8 +36,12 @@
 
 **Tasks**
 * Design a mock website logo
+  * Experiment with different colour palettes
 * Embed images into landing page gallery
 * Add placeholder text
+
+<img width="490" height="254" alt="image" src="https://github.com/user-attachments/assets/85b5e564-205c-44c4-929e-e9ebf561993f" />
+
 ---
 
 | Date | Time Spent | Tasks |
