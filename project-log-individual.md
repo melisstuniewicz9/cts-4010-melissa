@@ -65,8 +65,6 @@
 
 <img width="274" height="374" alt="image" src="https://github.com/user-attachments/assets/abe288be-dd16-4e4e-8825-61996cdc0282" />
 
-
-
 **To do's:**
 * Finish Hi-Fi
 * Add existing resources and list of tools to project index
@@ -84,7 +82,6 @@
 
 **Link to Website**
 [bdd-platform-economies](https://bdd-platform-economies-daebf8.gitlab.io/)
-
 
 ---
 
