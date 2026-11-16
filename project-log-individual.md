@@ -1,5 +1,24 @@
 # Individual Project Log
 
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
+| Nov, 15-17 | 4 hours | Methodoly Report + Data Management Plan + Deliverables |
+
+---
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
+| Nov, 13| 2 hours | Methodoly Report + Data Management Plan |
+
+---
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
+| Nov, 12 |1 hour | Methodology Report |
+
+---
+
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
 | Nov, 8-9| 6 hours | Longer Desc |
