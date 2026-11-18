@@ -1,9 +1,16 @@
 # Individual Project Log
 
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
+| Nov 18 | 8 hours |Bibliographic Annotations |
+
+---
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
 | Nov, 15-17 | 4 hours | Methodology Report + Data Management Plan + Deliverables |
+
+<img width="617" height="248" alt="image" src="https://github.com/user-attachments/assets/e6f55ea6-b2fc-4aec-a38a-55c1215043f8" />
 
 ---
 
