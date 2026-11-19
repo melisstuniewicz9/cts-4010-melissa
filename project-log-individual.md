@@ -52,7 +52,7 @@
 | Nov, 6 | 2 hours | Longer Desc + Editing Website |
 
 **Tasks**
-* Design a mock website logo
+* Design / draw a mock website logo
   * Experiment with different colour palettes
 
 <img width="548" height="364" alt="image" src="https://github.com/user-attachments/assets/50b207c0-2b73-43f0-a2af-98fc8eff5ebe" />
