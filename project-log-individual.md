@@ -2,6 +2,12 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
+| Nov 18 | 1 hour |Check in with Paul + proofreading deliverables |
+
+---
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
 | Nov 18 | 9 hours |Bibliographic Annotations |
 
 <img width="690" height="372" alt="image" src="https://github.com/user-attachments/assets/b98496ae-9bca-4e7f-940b-ae9558589d25" />
