@@ -2,7 +2,7 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
-| Nov 18 | 8 hours |Bibliographic Annotations |
+| Nov 18 | 9 hours |Bibliographic Annotations |
 
 ---
 
