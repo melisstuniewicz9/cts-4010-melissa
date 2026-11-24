@@ -1,6 +1,6 @@
 # Individual Project Index
 
-<img width="800" height="534" alt="image" src="https://github.com/user-attachments/assets/98ed1f29-4a68-454d-a60c-bf82e4782065" />
+<img width="1200" height="574" alt="image" src="https://github.com/user-attachments/assets/73d3e190-f7a4-4acc-b509-e919e748bf3a" />
 
 --- 
 
