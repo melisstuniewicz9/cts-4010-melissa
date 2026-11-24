@@ -60,13 +60,3 @@ Art/Graphics:
 * Flourish
 
 --- 
-
-
- 
-
-
-          Attachments
-
-      o Snapshot
-
-
