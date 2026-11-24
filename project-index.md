@@ -2,6 +2,7 @@
 
 <img width="800" height="534" alt="image" src="https://github.com/user-attachments/assets/98ed1f29-4a68-454d-a60c-bf82e4782065" />
 
+
 **Draft Bibliography**
 
 2025-09-08. (n.d.). The psychology behind the Labubu craze (and other fads). Trinity Health Mid-Atlantic. Retrieved November 10, 2026, from https://www.trinityhealthma.org/newsroom/blog-articles/the-psychology-behind-the-labubu-craze-and-other-fads
