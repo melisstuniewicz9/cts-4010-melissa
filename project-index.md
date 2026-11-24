@@ -1,5 +1,6 @@
 # Individual Project Index
 
+<img width="800" height="534" alt="image" src="https://github.com/user-attachments/assets/98ed1f29-4a68-454d-a60c-bf82e4782065" />
 
 **Draft Bibliography**
 
