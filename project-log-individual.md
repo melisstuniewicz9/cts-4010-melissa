@@ -2,6 +2,12 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
+| Nov 24 | 1 hour |Revise Methodology |
+
+--- 
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
 | Nov 18 | 1 hour |Check in with Paul + proofreading deliverables |
 
 ---
