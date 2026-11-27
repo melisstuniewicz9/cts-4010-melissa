@@ -2,6 +2,24 @@
 
 | Date | Time Spent | Tasks |
 | :--- | :--- | :--- |
+| Nov 26-Nov 30th | TBD | Final Document + Presentation Preparation|
+
+**Nov 27**
+* Rewrite methodology
+  * Anticipated time to complete: 6 hours
+ 
+**Nov 28**
+* Rewrite long description
+  * Anticipated time to complete: 2-3 hours
+ 
+**Nov 29**
+* Executive summary + document formatting
+  * Anticipated time to complete: 2 hours
+ 
+---
+
+| Date | Time Spent | Tasks |
+| :--- | :--- | :--- |
 | Nov 24 | 1 hour |Revise Methodology |
 
 --- 
